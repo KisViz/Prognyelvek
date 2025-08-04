@@ -1,4 +1,4 @@
-# 📘 Programozasi nyelvek  
+# Programozasi nyelvek  
 Programming Languages
 
 Ez a repository tartalmazza a 2024/2025/2-es félév Programozási nyelvek tantárgy gyakorló feladatait és beadandóit.  
